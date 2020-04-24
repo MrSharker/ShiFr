@@ -1,0 +1,15 @@
+D:\Kypcy\ShiFr\ShiFr\bin\Debug\ShiFr.exe.config
+D:\Kypcy\ShiFr\ShiFr\bin\Debug\ShiFr.exe
+D:\Kypcy\ShiFr\ShiFr\bin\Debug\ShiFr.pdb
+D:\Kypcy\ShiFr\ShiFr\obj\Debug\ShiFr.csprojAssemblyReference.cache
+D:\Kypcy\ShiFr\ShiFr\obj\Debug\MainWindow.g.cs
+D:\Kypcy\ShiFr\ShiFr\obj\Debug\App.g.cs
+D:\Kypcy\ShiFr\ShiFr\obj\Debug\ShiFr_MarkupCompile.cache
+D:\Kypcy\ShiFr\ShiFr\obj\Debug\ShiFr_MarkupCompile.lref
+D:\Kypcy\ShiFr\ShiFr\obj\Debug\MainWindow.baml
+D:\Kypcy\ShiFr\ShiFr\obj\Debug\ShiFr.g.resources
+D:\Kypcy\ShiFr\ShiFr\obj\Debug\ShiFr.Properties.Resources.resources
+D:\Kypcy\ShiFr\ShiFr\obj\Debug\ShiFr.csproj.GenerateResource.cache
+D:\Kypcy\ShiFr\ShiFr\obj\Debug\ShiFr.csproj.CoreCompileInputs.cache
+D:\Kypcy\ShiFr\ShiFr\obj\Debug\ShiFr.exe
+D:\Kypcy\ShiFr\ShiFr\obj\Debug\ShiFr.pdb
