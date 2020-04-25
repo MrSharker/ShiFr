@@ -30,7 +30,7 @@ namespace ShiFr
 
         private void encDo_Click(object sender, RoutedEventArgs e)
         {
-            if (CheckKey(keyword.Text))
+            if (CheckKey(keyword.Text) == true && keyword.Text != "")
             {
                 encryption.keyword = keyword.Text;
                 ChCode.Text = encryption.Encrypt(forCode.Text);
@@ -40,7 +40,7 @@ namespace ShiFr
 
         private void decDo_Click(object sender, RoutedEventArgs e)
         {
-            if (CheckKey(keyword.Text))
+            if (CheckKey(keyword.Text) == true && keyword.Text != "")
             {
                 encryption.keyword = keyword.Text;
             ChCode.Text = encryption.Decrypt(forCode.Text);
